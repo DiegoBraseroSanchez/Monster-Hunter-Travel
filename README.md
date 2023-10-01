@@ -14,6 +14,7 @@ Ordenador
 ![tienda3](https://github.com/DiegoBraseroSanchez/Monster-Hunter-Travel/assets/129300180/74b94271-5887-466c-aa5a-333392baca38)
 ![tienda4](https://github.com/DiegoBraseroSanchez/Monster-Hunter-Travel/assets/129300180/b13b7b4c-1087-484b-a3f9-e8f098e7555c)
 ![tienda5](https://github.com/DiegoBraseroSanchez/Monster-Hunter-Travel/assets/129300180/50a7994f-9309-47ed-bef9-89c94b3c9892)
+Responsive Mobile
 
 ![tienda6](https://github.com/DiegoBraseroSanchez/Monster-Hunter-Travel/assets/129300180/f1d401d5-4500-4b27-8844-c2e11e91c249)
 
